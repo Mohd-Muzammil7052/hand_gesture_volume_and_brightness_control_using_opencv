@@ -49,7 +49,7 @@ Clone the repository and install dependencies:
 
 ```bash
 git clone https://github.com/<your-username>/Hand-Gesture-Volume-Brightness-Control.git
-cd Hand-Gesture-Volume-Brightness-Control
+cd hand_gesture_volume_and_brightness_control_using_opencv
 pip install -r requirements.txt
 ```
 
@@ -120,6 +120,7 @@ comtypes
  ┗ 📜 README.md                       # Documentation
 
 ```
+---
 
 ## 📄 License  
 
@@ -147,4 +148,6 @@ For queries or collaborations:
 
 **Mohd Muzammil**  
 - [GitHub](https://github.com/Mohd-Muzammil7052)  
-- [LinkedIn](https://www.linkedin.com/in/mohd-muzammil-109044290/) 
+- [LinkedIn](https://www.linkedin.com/in/mohd-muzammil-109044290/)
+
+---
