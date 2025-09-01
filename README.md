@@ -53,6 +53,8 @@ cd Hand-Gesture-Volume-Brightness-Control
 pip install -r requirements.txt
 ```
 
+---
+
 ## ⚙️ Setup
 
 1. Ensure your webcam is connected and accessible.
